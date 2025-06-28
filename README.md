@@ -64,3 +64,5 @@ Commit suas mudanças (git commit -m 'Add some AmazingFeature')
 Push para a branch (git push origin feature/AmazingFeature)
 
 Abra um Pull Request
+
+![Captura de tela 2025-06-28 163340](https://github.com/user-attachments/assets/5f8b9344-2554-4f2e-bbbe-af146eda5f6e)
