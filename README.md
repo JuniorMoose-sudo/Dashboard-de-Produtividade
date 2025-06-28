@@ -28,21 +28,6 @@ Pandas - Processamento e análise de dados
 
 Numpy - Cálculos numéricos avançados
 
-📂 Estrutura do Projeto
-
-dashboard_produtividade/
-├── app.py                  # Ponto de entrada principal
-├── requirements.txt        # Dependências
-├── tests/                  # Testes automatizados
-│   ├── test_data_processing.py
-│   ├── test_analysis.py
-│   └── test_visualization.py
-└── src/
-    ├── __init__.py
-    ├── config.py           # Configurações constantes
-    ├── data_processing.py  # Processamento de dados
-    ├── analysis.py         # Análises avançadas
-    └── visualization.py    # Visualizações interativas
 
 📊 Funcionalidades Principais
 1. Análise Geral
